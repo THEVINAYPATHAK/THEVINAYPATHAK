@@ -15,7 +15,7 @@
 <br />
 
 
-Hi, I'm [Vinay Pathak] pursiuing my postgraduation in CS . My passion for software lies with dreaming up ideas and making them come true.
+Hi, I'm Vinay Pathak and am pursuing my MCA from Graphic Era Hill University . My passion for software lies with dreaming up ideas and making them come true.
 I'm joining in open-source community  to learn a lot and i love how collaboration and knowledge sharing happened through open-source.
 
 *languages and tools:*  
@@ -30,4 +30,4 @@ I'm joining in open-source community  to learn a lot and i love how collaboratio
 
 📈 my github stats
 
-<p align="center"/> <img src="https://github-readme-stats.vercel.app/api?username=vinaypathak01&show_icons=true&theme=gotham" alt="Shubham singh bisht" />
+<p align="center"/> <img src="https://github-readme-stats.vercel.app/api?username=vinaypathak01&show_icons=true&theme=gotham" alt="Vinay Pathak" />
