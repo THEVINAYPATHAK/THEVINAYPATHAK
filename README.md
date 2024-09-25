@@ -5,11 +5,11 @@
 <p align="center">
   <a href="https://github.com/peterthehan">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/white">
+      <source media="(prefers-color-scheme: dark)" srcset="https://github.com/vinaypathak01">
       <img alt="GitHub" title="GitHub" height="48" width="48" src="https://github.com/vinaypathak01"></picture></a>
-  <a href="https://www.linkedin.com/in/peterthehan">
+  <a href="https://www.linkedin.com/in/vinaypathakk/">
     <img alt="LinkedIn" title="LinkedIn" height="48" width="48" src="https://www.linkedin.com/in/vinaypathakk/"></a>
-  <a href="https://www.npmjs.com/~peterthehan">
+  <a href="https://twitter.com/the_vinaypathak">
     <img alt="npm" title="npm" height="48" width="48" src="https://twitter.com/the_vinaypathak"></a>
 </p>
 <br />
