@@ -17,7 +17,7 @@
 
 Hi, I'm Vinay Pathak and am pursuing my MCA from Graphic Era Hill University . My passion for software lies with dreaming up ideas and making them come true.
 I'm joining in open-source community  to learn a lot and i love how collaboration and knowledge sharing happened through open-source.
-
+<br />
 
 
 #### Languages:
