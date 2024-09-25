@@ -10,7 +10,7 @@
   <a href="https://www.linkedin.com/in/vinaypathakk/">
     <img alt="LinkedIn" title="LinkedIn" height="48" width="48" src="https://www.linkedin.com/in/vinaypathakk/"></a>
   <a href="https://twitter.com/the_vinaypathak">
-    <img alt="npm" title="npm" height="48" width="48" src="https://twitter.com/the_vinaypathak"></a>
+    <img alt="Twitter" title="Twitter" height="48" width="48" src="https://twitter.com/the_vinaypathak"></a>
 </p>
 <br />
 
