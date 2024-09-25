@@ -15,8 +15,20 @@
 <br />
 
 
-Hi, I'm Vinay Pathak and am pursuing my MCA from Graphic Era Hill University . My passion for software lies with dreaming up ideas and making them come true.
-I'm joining in open-source community  to learn a lot and i love how collaboration and knowledge sharing happened through open-source.
+Hi,I'm Vinay Pathak
+Software Engineer | React Developer
+
+Passionate about developing responsive and dynamic user interfaces using React.js, JavaScript, HTML5, and CSS3. Skilled in implementing and optimizing reusable, scalable components, with a focus on delivering high-performance, maintainable code.
+
+Key expertise includes:
+State Management: Proficient in managing application state with React for enhanced functionality.
+Design & Responsiveness: Leveraging frameworks like Tailwind CSS to create efficient, responsive designs.
+Complex Features: Building dynamic components such as data grids (ag-Grid), file uploads, dropdown filters, and interactive calendars.
+Authentication Systems: Experienced in developing login pages, including form validation, session management, and user authentication.
+Core Java: Solid foundation in object-oriented programming with experience in Java-based projects.
+Now actively contributing to the open-source community to learn, grow, and collaborate with like-minded developers. I love how knowledge sharing and collaboration in open-source projects can drive innovation and personal growth.
+
+
 <br />
 
 
